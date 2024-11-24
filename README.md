@@ -15,11 +15,17 @@ Currently, the project uses a Python, Flask and Neo4j stack, so that only open-s
 Unzip the CE-graph file to a folder. Then:
 
 cd CE-graph
+
 pip install virtualenv
+
 virtualenv venv
+
 source venv/bin/activate
+
 pip install -r requirements.txt
+
 python 01_site_db_code.py
+
 
 Go to the below URL in your browser:
 http://localhost:50000
