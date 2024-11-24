@@ -10,6 +10,8 @@ By providing a platform with a graph-database backend, NGOs and volunteers can g
 
 Currently, the project uses a Python, Flask and Neo4j stack, so that only open-source software is being used. Python will set up a local Flask website that the user can interact with to make changes to the graph database that is hosted in Neo4j Aura, a graph platform cloud service offered by Neo4j.
 
+The Flask webpage is just a skeleton structure with limited features, built to understand how the concept works.
+
 # Usage
 
 Unzip the CE-graph file to a folder. Then:
