@@ -12,9 +12,11 @@ Currently, the project uses a Python, Flask and Neo4j stack, so that only open-s
 
 The Flask webpage is just a skeleton structure with limited features, built to understand how the concept works.
 
+The CE-graph zip file in the source code link, when unzipped contains a sub-folder, Additional References. This contains the demo video and methodology files.
+
 # Usage
 
-Unzip the CE-graph file to a folder. Then:
+Unzip the CE-graph zip file to a folder. Then:
 
 cd CE-graph
 
