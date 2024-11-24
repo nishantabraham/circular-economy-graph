@@ -27,6 +27,8 @@ pip install -r requirements.txt
 python 01_site_db_code.py
 
 
+
 Go to the below URL in your browser:
+
 http://localhost:50000
 
